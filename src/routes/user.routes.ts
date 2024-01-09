@@ -1,3 +1,4 @@
+// @ts-ignore
 import express from "express";
 import UserModel from "../models/user.model";
 import CustomResponse from "../dtos/custom.response";
